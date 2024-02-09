@@ -1,4 +1,4 @@
-Olá, meu nome é Leandro Gabreil Hackbart Brentano, sou estudante de redes de computadores.
+Olá, meu nome é Leandro Gabriel Hackbart Brentano, sou estudante de redes de computadores.
 
 ##
 
@@ -28,7 +28,7 @@ Tenho interesse em Html5, Css3, JavaScript e Python
   
  <a href="https://instagram.com/leandro_gabriel_hackbart" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "leandrohackbartbrent@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 
   </a>  
   
