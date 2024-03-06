@@ -16,7 +16,7 @@
 
 <div>
   <a href="https://github.com/leandro_Gabriel_Hackbart_Brentano">
-   <img align="center" alt="leandro-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_blank">
+   <img align="center" alt="leandro-HTML" height="70" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_blank">
    <img align="center" alt="leandro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" target="_blank">  
    <img align="center" alt="leandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank">
    <img align="center" alt="leandro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
