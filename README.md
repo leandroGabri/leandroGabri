@@ -10,7 +10,6 @@ Olá, meu nome é Leandro Gabriel Hackbart Brentano, sou estudante de redes de c
      \/  \/ \___|_|\___\___/|_| |_| |_|\___(_)
 ```
 </div>
-##
 
 Tenho interesse em Html5, Css3, JavaScript e Python
 
