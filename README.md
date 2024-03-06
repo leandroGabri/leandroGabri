@@ -26,7 +26,7 @@
 
 
 
-<img align="right" height="100em" alt="gato" src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif">
+<img align="right" height="200em" alt="gato" src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif">
 
 
 
