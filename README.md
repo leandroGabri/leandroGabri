@@ -1,7 +1,7 @@
 Olá, meu nome é Leandro Gabriel Hackbart Brentano, sou estudante de redes de computadores.     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 <div align="center">
  
-```
+ ```
  __          __  _                          _ 
  \ \        / / | |                        | |
   \ \  /\  / /__| | ___ ___  _ __ ___   ___| |
@@ -9,11 +9,10 @@ Olá, meu nome é Leandro Gabriel Hackbart Brentano, sou estudante de redes de c
     \  /\  /  __/ | (_| (_) | | | | | |  __/_|
      \/  \/ \___|_|\___\___/|_| |_| |_|\___(_)
 ```
-
+</div>
 ##
 
 Tenho interesse em Html5, Css3, JavaScript e Python
-
 
 <div>
   <a href="https://github.com/leandro_Gabriel_Hackbart_Brentano">
